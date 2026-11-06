@@ -1,0 +1,13 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "sessoes": {
+      "$codigo": {
+        ".validate": "$codigo.matches(/^[A-Z0-9]{6}$/)",
+        ".read": true,
+        ".write": true
+      }
+    }
+  }
+}

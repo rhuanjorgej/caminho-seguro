@@ -1,0 +1,11 @@
+{
+  "name": "Caminho Seguro",
+  "short_name": "Caminho Seguro",
+  "description": "Demonstração de apoio para caminhadas seguras e comunicação com a família.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF7F0",
+  "theme_color": "#1D5C63",
+  "lang": "pt-BR",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
