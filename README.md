@@ -2,8 +2,6 @@
 
 Protótipo de aplicativo web para apoiar a Dona Marta (74 anos, Alzheimer em estágio inicial) nas caminhadas até a padaria, e dar tranquilidade para a família. Funciona no navegador (Chrome e Safari), em tablet e celulares, por um link público.
 
-**Importante:** é uma demonstração. A Dona Marta, a família, o bairro e a padaria são fictícios. A localização é simulada, sem GPS e sem rastreamento real. Isso aparece escrito na tela, em todas as páginas.
-
 ## O que o aplicativo faz
 
 **Tablet da Dona Marta**
